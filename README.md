@@ -189,7 +189,7 @@ App.component.html:
   
 </Cylinder-Vol>
 
-<div class="footer">DEVELOPED BY: ragul.AC</div>
+<div class="footer">DEVELOPED BY: Anusha R</div>
 
     </div>
 
